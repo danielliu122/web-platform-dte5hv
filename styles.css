@@ -1,0 +1,35 @@
+h1 {
+  text-align: center;
+}
+#inputdefault {
+  margin: 20px;
+  padding: 5px;
+}
+
+#agree {
+  position: relative;
+  margin: 20px;
+}
+
+#terms {
+  margin-left: 40px;
+  position: absolute;
+}
+
+#reg {
+  width: 150px;
+  size: 100px;
+  margin: 30px;
+  padding: 10px;
+  background-color: midnightblue;
+  color: white;
+}
+
+#submit {
+  width: 150px;
+  size: 100px;
+  margin: 30px;
+  padding: 10px;
+  background-color: lightgreen;
+  color: white;
+}
